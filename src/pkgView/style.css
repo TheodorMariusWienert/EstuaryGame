@@ -1,0 +1,30 @@
+
+.radio-button .radio:selected {
+    -fx-background-color: white;
+    -fx-background-image: null;
+}
+.radio-button .dot {
+    -fx-background-radius: 8px;
+    -fx-padding: 15px;
+	
+}
+.radio-button  {
+    -fx-font-size :5em;
+	
+}
+.button  {
+    -fx-font-size :3em;
+	
+}
+HBox{
+	-fx-spacing: 4px;
+}
+VBox {
+	-fx-padding: 4px;
+	-fx-spacing: 4px;
+}
+.label {
+		-fx-padding: 4px ;
+		 
+}
+
